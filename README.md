@@ -1,1 +1,2 @@
-# Biswa
+
+permalink: /DACTORY.html
