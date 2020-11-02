@@ -1,0 +1,110 @@
+body{
+    
+        background-color: #DCDCDC;
+        
+       }
+        
+    hr{
+    
+        border-color:#000000;
+    
+        border-style:none;
+        
+        border-top-style: dotted;
+        
+        height:5px;
+        
+        width:5%;
+        
+        }
+        
+    img{
+    
+         border-radius: 100%; 
+              
+         height:60%;
+              
+         width:70%;
+              
+         }
+         
+         
+    thead{
+    
+          color:#FF4500;
+          
+          }
+          
+          
+       h3{
+       
+          color: #66BFBF;
+          
+          }
+          
+          
+  /** class selector (.) class t "biswa kumar" eneke likhile biswa and kumar ai duta class hisape dhora hobo**/
+          
+          
+ .1heading{
+          
+          color: #191970;
+          
+          font-family: cursive;
+          
+          font-size: 40px;
+         
+         }
+       
+      
+ . 2nd heading {
+	      
+           font-family: cursive;
+           
+           font-size: 20px;
+          
+          }
+          
+          
+ /**************** id selector (#) ...id t "biswa kumar" 
+  eneke 
+ likhibo nuwaro eneke likhile eta bostute duta id dia 
+ jen hobo...id only single word r hoi...class double , 
+ tripple ba tat ke besi o hobo pare but id   
+ nuware ...class same name r bohut keita hobo pare
+ but id same name r hobo nuware
+ 
+  ****************/
+ 
+ 
+ #3heading {
+ 
+
+             color: blue;
+	
+	
+	
+           }
+ 
+ /* pseudo claass selector ( : ) */
+ 
+  : hover { color : red;
+	
+	   
+	
+       }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+          
+          
