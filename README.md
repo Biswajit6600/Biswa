@@ -1,2 +1,2 @@
 
-permalink: /DACTORY.html
+permalink: 
